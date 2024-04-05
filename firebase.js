@@ -11,7 +11,7 @@ const firebaseConfig = {
   authDomain: process.env.NEXT-PUBLIC-FIREBASE-AUTH-DOMAIN,
   projectId: process.env.NEXT-PUBLIC-FIREBASE-PROJECT-ID,
   storageBucket: process.env.NEXT-PUBLIC-FIREBASE-STORAGE-BUCKET,
-  messagingSenderId: process.env.NEXT-PUBLIC-FIREBASE-MESSAGE-SENDER_ID,
+  messagingSenderId: process.env.NEXT-PUBLIC-FIREBASE-MESSAGE-SENDER-ID,
   appId: process.env.NEXT-PUBLIC-FIREBASE-APP-ID,
 };
 
